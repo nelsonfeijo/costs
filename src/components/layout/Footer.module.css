@@ -1,13 +1,15 @@
 .footer {
     background-color: #222;
     color: #fff;
-    padding: 3em;
+    padding: 2%;
     text-align: center;
 }
 .social_list {
     display: flex;
     justify-content: center;
     list-style-type: none;
+    height: 2%;
+   
 }
 .social_list li {
     margin: 0 1em;
@@ -21,7 +23,7 @@
     cursor: pointer;
 }
 .copy_right {
-    margin-top: 2em;
+    margin-top: 1em;
 }
 .copy_right span{
     font-weight: bold;
