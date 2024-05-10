@@ -27,6 +27,4 @@ function App() {
     </Router>
   );
 }
-/*useHistory => useNavigate*/
-/*history.push => navigate*/
 export default App;

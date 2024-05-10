@@ -1,21 +1,58 @@
 {
-    "projects":[],
-    "categories":[
-        {
-            "id":1,
-            "name":"Infra"
-        },
-        {
-            "id":2,
-            "name":"Desenvolvimento"
-        },
-        {
-            "id":3,
-            "name":"Design"
-        },
-        {
-            "id":4,
-            "name":"Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "id": "8d90",
+      "name": "qaaa",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "f838",
+      "name": "qwefsad",
+      "cost": 0,
+      "services": [],
+      "budget": "04000"
+    },
+    {
+      "id": "b413",
+      "name": "qwefsad",
+      "cost": 0,
+      "services": [],
+      "budget": "04000"
+    },
+    {
+      "id": "ecbe",
+      "name": "Projeto",
+      "cost": 0,
+      "services": [],
+      "budget": "1000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      }
+    },
+    {
+      "id": "da43",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
