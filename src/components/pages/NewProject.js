@@ -26,13 +26,13 @@ function NewProject(){
           })
       }
 
-    return (
+      return (
         <div className={styles.newproject_container}>
-            <h1>Criar projeto</h1>
-            <p>Crie seu projeto para depois adicionar os serviços</p>
-            <ProjectForm handleSubmit={createPost} btnText="Criar projeto"/>
+          <h1>Criar Projeto</h1>
+          <p>Crie seu projeto para depois adicionar os serviços</p>
+          <ProjectForm handleSubmit={createPost} btnText="Criar Projeto" />
         </div>
-    )
+      )
     }
     
     export default NewProject
