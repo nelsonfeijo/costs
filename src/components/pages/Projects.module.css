@@ -46,3 +46,10 @@
   .form {
     width: 100%;
   }
+  .title_container {
+    margin: 1em;
+}
+.title_container h1 {
+  margin-bottom: 1em;
+
+}
